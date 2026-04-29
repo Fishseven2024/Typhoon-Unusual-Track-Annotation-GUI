@@ -149,7 +149,24 @@ OUTPUT_ROOT = ...
 ```bash
 python Statistic_GUI_2.1.py
 ```
+## Data Availability
 
+This repository does not include the manually curated research dataset or annotation labels before publication.
+
+The software is designed to work with public tropical cyclone best-track data. Users may download IBTrACS data from the official public archive and convert it into the required CSV format.
+
+Required columns include:
+
+- SID
+- SEASON
+- NAME
+- BASIN
+- LAT
+- LON
+- USA_WIND
+- ISO_TIME
+
+A minimal input schema is provided in `examples/sample_schema.csv`.
 ## Notes
 
 This project focuses on manual visual marking and statistical organization of unusual typhoon track segments. It does not include a target detection or automatic recognition model inside the GUI.
