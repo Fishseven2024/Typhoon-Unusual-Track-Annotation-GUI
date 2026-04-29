@@ -158,7 +158,7 @@ The GUI is intended as a research-support tool for dataset construction, human r
 
 ## License
 
-This software is released under the MIT License.
+This software is released under the Apache License 2.0.
 
 The license only applies to the source code in this repository. Research data, manually labeled datasets, figures, and unpublished experimental results are not included unless explicitly stated.
 
@@ -170,5 +170,5 @@ If this tool or its derived dataset is useful for your research, please cite the
 
 Developed for research on unusual tropical cyclone tracks and typhoon path dataset construction.
 ## Attention！！！
-This repository releases the software tools under the MIT License. 
+This repository releases the software tools under the Apache License 2.0.
 The typhoon track dataset used in the associated research is not included in this repository and will be released after publication when appropriate.
