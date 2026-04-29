@@ -6,7 +6,7 @@ A research-oriented toolkit for visual annotation and validation of unusual trop
 A lightweight GUI tool for manually marking, reviewing, and statistically summarizing unusual tropical cyclone tracks.
 
 This project was developed for research on unusual typhoon tracks in the Western North Pacific. The tool supports single-track visualization, interactive segment marking, automatic statistics, progress persistence, and reproducible export of marked results.
-![Uploading Quicker_20260429_232928.png…]()
+
 
 ## Features
 
